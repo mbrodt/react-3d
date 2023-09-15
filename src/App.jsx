@@ -1,4 +1,4 @@
-import SplineScene from "./Spline";
+import SplineScene from "./SplineScene";
 import Three from "./Three";
 
 export default function App() {
